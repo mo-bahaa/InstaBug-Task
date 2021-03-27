@@ -9,7 +9,6 @@ Eclipse
 Selenuim
 TestNG
 Maven
-The implemented scripts are based on (behavior-driven development) framework using selenuim.
 To run it please follow the following steps:
 import project "FaceBookTest" to eclipse
 change liberies to your local path.
